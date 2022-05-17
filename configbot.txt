@@ -1,0 +1,5 @@
+{
+	"ip":"TH_SMP.aternos.me",
+	"port": "62404",
+	"name":"adamelgrande"
+}
